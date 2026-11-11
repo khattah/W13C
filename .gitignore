@@ -37,3 +37,8 @@ __screenshots__/
 
 # Vite
 *.timestamp-*-*.mjs
+
+/public/Music/
+/public/music/
+/public/audio/
+/public/check.txt
